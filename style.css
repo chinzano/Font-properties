@@ -17,6 +17,10 @@ article	p {
 	font-size: 1.5em;
 }	
 
+article p:last-child {
+	font-weight: bold;	
+}
+
 aside{
 	width: 13.5em;
 }
