@@ -11,5 +11,6 @@ article {
 	width: 30em;
 }
 
-
-
+article	p {
+	font-size: 1.5em;
+}	
