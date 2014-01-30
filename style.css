@@ -10,6 +10,7 @@ article p:first-of-type {
 article {
 	width: 30em;
 	margin: 0 1em 0 1em;
+	float: left;
 }
 
 article	p {
@@ -23,4 +24,6 @@ aside{
 aside p {
 	font-size: 1.1em;
 }
-
+aside {
+	float: left;
+}
