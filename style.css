@@ -2,6 +2,9 @@ body {
 	background-color: #D2D4CD;
 	color: #24435E;
 }
+h1 {
+	font-family: sans-serif;
+}
 
 article p:first-of-type {
 	background-color: #000000;
