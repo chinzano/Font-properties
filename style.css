@@ -1,0 +1,9 @@
+body {
+	background-color: #D2D4CD;
+	color: #24435E;
+}
+
+article p:first-of-type {
+	background-color: #000000;
+}
+
