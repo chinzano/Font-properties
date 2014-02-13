@@ -19,7 +19,7 @@ article {
 	float: left;
 }
 
-article	p:first-child {
+article	p:nth-child(1) {
 	font-size: 1.5em;
 }	
 
