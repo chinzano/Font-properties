@@ -19,20 +19,20 @@ article {
 	float: left;
 }
 
-article	p:nth-child(1) {
+article	p:nth-child(2) {
 	font-size: 1.5em;
 }	
 
-article	p:nth-child(2) {
+article	p:nth-child(3) {
 	font-size: 1.4em;
 }	
-article	p:nth-child(3) {
+article	p:nth-child(4) {
 	font-size: 1.3em;
 }	
-article	p:nth-child(4) {
+article	p:nth-child(5) {
 	font-size: 1.2em;
 }	
-article	p:nth-child(5) {
+article	p:nth-child(6) {
 	font-size: 1.1em;
 }	
 article p:last-child {
